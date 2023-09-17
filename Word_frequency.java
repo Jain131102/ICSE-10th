@@ -8,7 +8,7 @@
 
 import java.io.*;
 
-class abc {
+class Word_frequency {
     public static void main(String args[]) throws IOException {
         InputStreamReader ir = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(ir);
