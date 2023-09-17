@@ -8,7 +8,7 @@
 
 import java.io.*;
 
-class number {
+class Perfect_and_Palindrome_Number {
     public static void main(String args[]) throws IOException {
         InputStreamReader IR = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(IR);
