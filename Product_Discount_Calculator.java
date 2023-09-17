@@ -15,7 +15,7 @@
 
 import java.util.*;
 
-class Text {
+class Product_Discount_Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String name, add;
