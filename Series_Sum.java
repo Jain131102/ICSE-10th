@@ -3,7 +3,7 @@
 
 import java.io.*;
 
-class series {
+class Series_Sum {
     public static void main() throws IOException {
         InputStreamReader IR = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(IR);
