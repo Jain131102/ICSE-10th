@@ -17,7 +17,7 @@
 // From 1,50,001 to 2,50,000         Rs. 5,000 + 20% of the income exceeding Rs.1,50,000
 // Above Rs. 2,50,000                Rs. 25,000 + 30% of the income exceeding Rs. 2,50,000.
 
-class employee
+class EmployeeIncome_Calculator
 {
 int pan;
 String name;
