@@ -3,7 +3,7 @@
 // For example, if S=“India is my country” then the output should be 7. [15]
 
 import java.util.*;
-class world
+class Longest_Word
 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
