@@ -5,7 +5,7 @@
 // volume of a sphere (vs) = 4/3* π* r* r*r (where π = 3.14 or 22/7)
 // Volume of a cuboid (vcd) = l* b* h [15]
 
-class vol
+class Volume // Program to illustrate Method Overloading
 {
 void volume(int s)
 {
