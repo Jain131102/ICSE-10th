@@ -5,7 +5,7 @@
 
 import java.io.*;
 
-class Temp {
+class Temperature_Convertor {
     public static void main(String arg[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int choice;
