@@ -8,7 +8,7 @@
 
 import java.io.*;
 
-class salary {
+class Salary {
     String name, address, phone, subject;
     double salary, it;
 
