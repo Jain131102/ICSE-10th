@@ -5,7 +5,7 @@
 
 import java.io.*;
 
-class city {
+class Alphabetical_order {
     public static void main(String args[]) {
         String[] name = { "Delhi", "Bangalore", "Agra", "Mumbai", "Calcutta" };
         int i, j;
